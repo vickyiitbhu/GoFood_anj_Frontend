@@ -1,0 +1,8 @@
+.popup {
+    position: absolute;
+    display: inline;
+    /* border: 1px solid red;  */
+    left: 150px;
+    bottom: 20px;
+    margin: 0px;
+}
